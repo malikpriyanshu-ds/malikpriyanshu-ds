@@ -22,7 +22,6 @@ All projects are documented in my repositories.
 
 Consistent learning. Practical implementation. No shortcuts.
 
-##Contact me:-
 email:- priyanshu.malik@outlook.com
 
 <!--
